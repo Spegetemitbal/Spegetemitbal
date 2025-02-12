@@ -4,6 +4,10 @@
 - Learning Nim and LUA
 - Figuring out sprite batching and other 2D graphics optimizations
 
+### Current Repos
+
+- Lillis: A 2D game engine with native C++ scripting and extensive tilemap functionalities
+- Witches to Riches: A witchy cooking game built in Lillis to show off functionality
 
 <!--
 **Spegetemitbal/Spegetemitbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

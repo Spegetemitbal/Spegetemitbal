@@ -1,4 +1,9 @@
-## Hi there 👋
+## Game Engine Developer
+
+- Currently working on the Lillis Engine
+- Learning Nim and LUA
+- Figuring out sprite batching and other 2D graphics optimizations
+
 
 <!--
 **Spegetemitbal/Spegetemitbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

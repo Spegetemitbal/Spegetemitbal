@@ -1,13 +1,17 @@
-## Game Engine Developer
+## Current projects!
 
-- Currently working on the Lillis Engine
-- Learning Nim and LUA
-- Figuring out sprite batching and other 2D graphics optimizations
-
-### Current Repos
+- Bellum Idolorum (working name), a lo-fi soulslike based around directional combat
+https://aesithr.itch.io/bellum-idolorum
 
 - Lillis: A 2D game engine with native C++ scripting and extensive tilemap functionalities
-- Witches to Riches: A witchy cooking game built in Lillis to show off functionality
+
+## Previous Work
+
+- Umbra et Anima, an isometric hack and slash with arcane resource management:
+https://jakebaranowski.itch.io/umbra-et-anima
+
+- Rise from Ruin, a wave defense game where you control a giant monster defending a city from attack.
+https://store.steampowered.com/app/3703100/RISE_FROM_RUIN/
 
 <!--
 **Spegetemitbal/Spegetemitbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

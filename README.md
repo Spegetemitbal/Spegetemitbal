@@ -10,6 +10,10 @@
 
 - [Rise from Ruin](https://store.steampowered.com/app/3703100/RISE_FROM_RUIN/), a wave defense game where you control a giant monster defending a city from attack.
 
+## About Me
+
+I'm a Game Programming alumni of Champlain College looking to make games of all shapes and sizes. My specialization and interest lies in low level systems programming and game engines.
+
 <!--
 **Spegetemitbal/Spegetemitbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

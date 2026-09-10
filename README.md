@@ -1,17 +1,14 @@
 ## Current projects!
 
-- Bellum Idolorum (working name), a lo-fi soulslike based around directional combat
-https://aesithr.itch.io/bellum-idolorum
+- [Bellum Idolorum](https://aesithr.itch.io/bellum-idolorum) (working name), a lo-fi soulslike based around directional combat
 
 - Lillis: A 2D game engine with native C++ scripting and extensive tilemap functionalities
 
 ## Previous Work
 
-- Umbra et Anima, an isometric hack and slash with arcane resource management:
-https://jakebaranowski.itch.io/umbra-et-anima
+- [Umbra et Anima](https://jakebaranowski.itch.io/umbra-et-anima), an isometric hack and slash with arcane resource management.
 
-- Rise from Ruin, a wave defense game where you control a giant monster defending a city from attack.
-https://store.steampowered.com/app/3703100/RISE_FROM_RUIN/
+- [Rise from Ruin](https://store.steampowered.com/app/3703100/RISE_FROM_RUIN/), a wave defense game where you control a giant monster defending a city from attack.
 
 <!--
 **Spegetemitbal/Spegetemitbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
